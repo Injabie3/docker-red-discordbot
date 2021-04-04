@@ -24,8 +24,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TITLE: Red-DiscordBot
-      GHCR_SLUG: ghcr.io/phasecorex/red-discordbot
-      DOCK_SLUG: docker.io/phasecorex/red-discordbot
+      GHCR_SLUG: ghcr.io/injabie3/red-discordbot
+      DOCK_SLUG: docker.io/injabie3/red-discordbot
     steps:
       -
         name: Checkout
